@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "upgain final",
-    "currentPage": "index.html",
+    "currentPage": "salefunnelsdevelopment.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 600,
+    "uniqCompNum": 624,
     "versionPublish": "4.6.6",
     "theme": {
       "name": "mobirise4",
@@ -1686,7 +1686,7 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Hotjar Tracking Code for www.upgain.co -->\n{JS_CODE_0}",
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
           "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
           "alias": "code-editor",
           "_tags": [
@@ -1696,8 +1696,22 @@
           "_anchor": "custom-html-gn",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script>\n    (function(h,o,t,j,a,r){\n        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};\n        h._hjSettings={hjid:846272,hjsv:6};\n        a=o.getElementsByTagName('head')[0];\n        r=o.createElement('script');r.async=1;\n        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;\n        a.appendChild(r);\n    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');\n</script>"
+            "<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-P2K6HJJ');</script>"
           ]
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;gt;&amp;lt;/iframe&amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-go",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
@@ -1731,6 +1745,20 @@
           "_global": false,
           "_once": false,
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;gt;&amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gp",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
@@ -5226,6 +5254,30 @@
           "_params": {}
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h6"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h7"
+        },
+        {
           "_styles": {
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 15px)",
@@ -6606,6 +6658,30 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h4"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h5"
         },
         {
           "_styles": {
@@ -8788,6 +8864,30 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h0"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h1"
         },
         {
           "_styles": {
@@ -11032,6 +11132,30 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h8"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h9"
         },
         {
           "_styles": {
@@ -13282,6 +13406,30 @@
           "_params": {}
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-ha"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-hb"
+        },
+        {
           "_styles": {
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 15px)",
@@ -15426,6 +15574,30 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h2"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-h3"
         },
         {
           "_styles": {
@@ -17639,6 +17811,30 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gy"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gz"
         },
         {
           "_styles": {
@@ -19936,6 +20132,30 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gs"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gt"
         },
         {
           "_styles": {
@@ -22464,6 +22684,30 @@
           "_params": {}
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gu"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gv"
+        },
+        {
           "_styles": {
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 15px)",
@@ -24932,6 +25176,30 @@
           "_params": {}
         },
         {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gw"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gx"
+        },
+        {
           "_styles": {
             "& when not (@fullScreen)": {
               "padding-top": "(@paddingTop * 15px)",
@@ -26135,6 +26403,30 @@
           "_global": true,
           "_once": "menu",
           "_params": {}
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager -->\n{JS_CODE_0}\n<!-- End Google Tag Manager -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gq"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-gr"
         },
         {
           "_styles": {
