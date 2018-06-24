@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "upgain final",
-    "currentPage": "index.html",
+    "currentPage": "webdevelopment.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 672,
     "versionPublish": "4.7.7",
@@ -5069,18 +5069,6 @@
           ],
           "_name": "pro.custom-html",
           "_anchor": "custom-html-hc"
-        },
-        {
-          "_customTemplate": true,
-          "_afterNavbarItem": false,
-          "_customHTML": "<!-- Google Tag Manager (noscript) -->\n<noscript>&amp;amp;amp;amp;amp;lt;iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-P2K6HJJ\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"&amp;amp;amp;amp;amp;gt;&amp;amp;amp;amp;amp;lt;/iframe&amp;amp;amp;amp;amp;gt;</noscript>\n<!-- End Google Tag Manager (noscript) -->",
-          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
-          "alias": "code-editor",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "pro.custom-html",
-          "_anchor": "custom-html-hd"
         },
         {
           "_styles": {
