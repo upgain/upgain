@@ -5255,7 +5255,7 @@ body {
 }
 .cid-qVQwuPnhXs {
   padding-top: 0px;
-  padding-bottom: 30px;
+  padding-bottom: 15px;
   background-color: #efefef;
 }
 .cid-qVQwuPnhXs .card-img {
@@ -5275,6 +5275,7 @@ body {
 }
 .cid-qVQwuPnhXs .mbr-text {
   color: #767676;
+  text-align: center;
 }
 .cid-qVQwuPnhXs .card-wrapper {
   height: 100%;
@@ -5292,15 +5293,8 @@ body {
     padding: 15px;
   }
 }
-.cid-qOeXKYJXwt {
-  padding-top: 15px;
-  padding-bottom: 0px;
-  background-color: #cccccc;
-}
-.cid-qVLOzUeqtp {
-  padding-top: 0px;
-  padding-bottom: 15px;
-  background-color: #cccccc;
+.cid-qVQwuPnhXs .card-title {
+  text-align: center;
 }
 .cid-qNuvwjNVKH {
   padding-top: 135px;
