@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "upgain final",
-    "currentPage": "index.html",
+    "currentPage": "salefunnelsdevelopment.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 672,
     "versionPublish": "4.7.7",
@@ -1586,8 +1586,8 @@
         "meta_descr": "Site Builder Description",
         "title": "SEO Services",
         "order": 10,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->",
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>"
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>",
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>"
       },
       "components": [
         {
@@ -2589,8 +2589,8 @@
         "meta_descr": "Site Builder Description",
         "title": "Marketing Content Creation",
         "order": 9,
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->"
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>"
       },
       "components": [
         {
@@ -3582,8 +3582,8 @@
         "meta_descr": "Web Page Builder Description",
         "title": "Social Media marketing",
         "order": 7,
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->"
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>"
       },
       "components": [
         {
@@ -4637,8 +4637,8 @@
         "meta_descr": "Web Site Builder Description",
         "title": "Web Development",
         "order": 11,
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->"
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>"
       },
       "components": [
         {
@@ -5738,9 +5738,9 @@
         "meta_descr": "Web Site Builder Description",
         "title": "Sale Funnels Development",
         "order": 12,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>",
         "html_before": "",
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>"
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>"
       },
       "components": [
         {
@@ -6696,8 +6696,8 @@
         "meta_descr": "Website Maker Description",
         "title": "Email Marketing",
         "order": 8,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->",
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>"
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>",
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>"
       },
       "components": [
         {
@@ -7720,8 +7720,8 @@
         "meta_descr": "Web Site Builder Description",
         "title": "Corporate",
         "order": 6,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->",
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>"
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>",
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>"
       },
       "components": [
         {
@@ -8828,8 +8828,8 @@
         "meta_descr": "Web Page Generator Description",
         "title": "E-Commerce",
         "order": 3,
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->"
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>"
       },
       "components": [
         {
@@ -10165,8 +10165,8 @@
         "meta_descr": "Web Page Creator Description",
         "title": "Small Business",
         "order": 4,
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->",
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>"
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>",
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>"
       },
       "components": [
         {
@@ -11444,8 +11444,8 @@
         "meta_descr": "Website Creator Description",
         "title": "Start Up",
         "order": 5,
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->"
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>"
       },
       "components": [
         {
@@ -12681,8 +12681,8 @@
         "meta_descr": "Web Page Maker Description",
         "title": "About Us",
         "order": 2,
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->"
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>"
       },
       "components": [
         {
@@ -13678,8 +13678,8 @@
         "meta_descr": "Web Maker Description",
         "title": "Join the Team",
         "order": 1,
-        "footer_custom": "<script type=\"text/javascript\">\nvar $zoho=$zoho || {};$zoho.salesiq = $zoho.salesiq || \n{widgetcode:\"22b20f6a1dfc7b9183a43770530a4b824d8122f35cd58c46967aa2b1785b11e8\", values:{},ready:function(){}};\nvar d=document;s=d.createElement(\"script\");s.type=\"text/javascript\";s.id=\"zsiqscript\";s.defer=true;\ns.src=\"https://salesiq.zoho.com/widget\";t=d.getElementsByTagName(\"script\")[0];t.parentNode.insertBefore(s,t);d.write(\"<div id='zsiqwidget'></div>\");\n</script>",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->"
+        "footer_custom": "<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>"
       },
       "components": [
         {
