@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "upgain final",
-    "currentPage": "index.html",
+    "currentPage": "webdevelopment.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 672,
     "versionPublish": "4.7.7",
@@ -5130,7 +5130,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote>Nowadays, who does not check the credibility of a company on their websites? Your company must present a website that aspire trust, and that makes you look like a top tog in your industry. on these engines because people trust them and if you are there you are so authentic, it's also an opportunity to be seen by your customers and prospects. If you are not in the search results it's as if you do not exist! Even if it is a page explaining your activity, it will have an influence on your notoriety. It means that you are there and facing your competitors.</blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#efefef\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-multiline mbr-article>\n                <blockquote>Nowadays, who does not check the credibility of a company on their websites? Your company must present a website that aspire trust, and that makes you look like a top tog in your industry. Besides having an appealing and modern design, your website needs to be like an extension of your office. Imagine it being a 24/7 sales assistant that tirelessly work to close more leads. Don’t build a website just to build it, but create a website that can support an efficient and automated sales funnel that will have actual increase in ROI. This is what we do for your company. We combine esthetic, beauty, branding, and sales performance to make you finally have the website of your dream.&nbsp;</blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qUfP7CuNbQ",
           "_anchor": "content2-hs",
           "_protectedParams": [],
