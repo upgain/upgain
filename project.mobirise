@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "upgain final",
-    "currentPage": "webdevelopment.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 672,
     "versionPublish": "4.7.7",
@@ -65,7 +65,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>\n\n<script> function createFcn(nm){(window.freshsales)[nm]=function(){(window.freshsales).push([nm].concat(Array.prototype.slice.call(arguments,0)))}; } (function(url,appToken,formCapture){window.freshsales=window.freshsales||[];if(window.freshsales.length==0){list='init identify trackPageView trackEvent set'.split(' ');for(var i=0;i<list.length;i++){var nm=list[i];createFcn(nm);}var t=document.createElement('script');t.async=1;t.src='//d952cmcgwqsjf.cloudfront.net/assets/analytics.js';var ft=document.getElementsByTagName('script')[0];ft.parentNode.insertBefore(t,ft);freshsales.init('//pjwarehouse.freshsales.io','d911111e90720f4c806883debbf13946846cca1be77c464c83486e7b6f8e9e0d',true);}})();</script>",
+        "header_custom": "<!-- Google Tag Manager -->\n<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MRNWCF4');</script>\n<!-- End Google Tag Manager -->\n\n<script src=\"https://wchat.freshchat.com/js/widget.js\"></script>\n\n",
         "footer_custom": "<!-- Google Tag Manager (noscript) -->\n<noscript><iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-MRNWCF4\"\nheight=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe></noscript>\n<!-- End Google Tag Manager (noscript) -->\n\n<script>\n  window.fcWidget.init({\n    token: \"a488bdf7-cac8-45de-9d1c-03579f4bc50a\",\n    host: \"https://wchat.freshchat.com\"\n  });\n</script>",
         "html_before": ""
       },
