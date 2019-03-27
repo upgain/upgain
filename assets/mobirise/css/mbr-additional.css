@@ -135,7 +135,7 @@ body {
   background-color: #87ceeb !important;
 }
 .bg-success {
-  background-color: #767676 !important;
+  background-color: #33cc14 !important;
 }
 .bg-info {
   background-color: #ff7f9f !important;
@@ -208,8 +208,8 @@ body {
 }
 .btn-success,
 .btn-success:active {
-  background-color: #767676 !important;
-  border-color: #767676 !important;
+  background-color: #33cc14 !important;
+  border-color: #33cc14 !important;
   color: #ffffff !important;
 }
 .btn-success:hover,
@@ -217,14 +217,14 @@ body {
 .btn-success.focus,
 .btn-success.active {
   color: #ffffff !important;
-  background-color: #505050 !important;
-  border-color: #505050 !important;
+  background-color: #22860d !important;
+  border-color: #22860d !important;
 }
 .btn-success.disabled,
 .btn-success:disabled {
   color: #ffffff !important;
-  background-color: #505050 !important;
-  border-color: #505050 !important;
+  background-color: #22860d !important;
+  border-color: #22860d !important;
 }
 .btn-warning,
 .btn-warning:active {
@@ -372,22 +372,22 @@ body {
 .btn-success-outline,
 .btn-success-outline:active {
   background: none;
-  border-color: #434343;
-  color: #434343;
+  border-color: #1c6f0b;
+  color: #1c6f0b;
 }
 .btn-success-outline:hover,
 .btn-success-outline:focus,
 .btn-success-outline.focus,
 .btn-success-outline.active {
   color: #ffffff;
-  background-color: #767676;
-  border-color: #767676;
+  background-color: #33cc14;
+  border-color: #33cc14;
 }
 .btn-success-outline.disabled,
 .btn-success-outline:disabled {
   color: #ffffff !important;
-  background-color: #767676 !important;
-  border-color: #767676 !important;
+  background-color: #33cc14 !important;
+  border-color: #33cc14 !important;
 }
 .btn-warning-outline,
 .btn-warning-outline:active {
@@ -470,7 +470,7 @@ body {
   color: #ffffff !important;
 }
 .text-success {
-  color: #767676 !important;
+  color: #33cc14 !important;
 }
 .text-info {
   color: #ff7f9f !important;
@@ -497,7 +497,7 @@ a.text-secondary:focus {
 }
 a.text-success:hover,
 a.text-success:focus {
-  color: #434343 !important;
+  color: #1c6f0b !important;
 }
 a.text-info:hover,
 a.text-info:focus {
@@ -573,7 +573,7 @@ a:hover {
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
-  color: #b6b6b6;
+  color: #c0f8b4;
 }
 .mbr-plan-header.bg-info .mbr-plan-subtitle,
 .mbr-plan-header.bg-info .mbr-plan-price-desc {
@@ -6528,7 +6528,7 @@ body {
 .cid-r04snqjrOX {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background4-1408x9981.png");
+  background-image: url("../../../assets/images/background4-1408x9982.png");
 }
 @media (min-width: 992px) {
   .cid-r04snqjrOX .mbr-figure {
@@ -6555,7 +6555,7 @@ body {
 .cid-r04wDn5mfg {
   padding-top: 15px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/background4-1408x9981.png");
+  background-image: url("../../../assets/images/background4-1408x9982.png");
 }
 .cid-r04wDn5mfg .media-container-row {
   flex-direction: row-reverse;
@@ -12994,10 +12994,19 @@ body {
 #custom-html-h8 .my-image {
   width: 100%;
 }
-.cid-rlyN6gimdG {
-  padding-top: 135px;
-  padding-bottom: 60px;
-  background-image: url("../../../assets/images/kal-visuals-590869-unsplash-2000x1333.jpg");
+.cid-rlSK7yqzn2 {
+  background-image: url("../../../assets/images/shes-laughing-2000x861.png");
+}
+.cid-rlSK7yqzn2 .mbr-section-subtitle {
+  letter-spacing: .2rem;
+}
+.cid-rlSK7yqzn2 .media-container-column {
+  background-color: #4f4943;
+}
+@media (max-width: 767px) {
+  .cid-rlSK7yqzn2 .media-container-column {
+    padding: 1rem !important;
+  }
 }
 .cid-qN6ozYho5c {
   padding-top: 30px;
@@ -13316,8 +13325,8 @@ body {
 }
 .cid-qOeG0qyk0k {
   padding-top: 60px;
-  padding-bottom: 45px;
-  background-image: url("../../../assets/images/mbr-1562x108011786.jpg");
+  padding-bottom: 30px;
+  background-image: url("../../../assets/images/videoblocks-blonde-woman-laughing-at-studio-shot-sgfied-lwg-thumbnail-full14-1920x1080.png");
 }
 .cid-qOeG0qyk0k .form-container {
   transition: all .2s;
