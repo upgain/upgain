@@ -42,17 +42,17 @@ body {
 }
 .display-5 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1.2rem;
+  font-size: 1.6rem;
 }
 .display-5 > .mbr-iconfont {
-  font-size: 1.92rem;
+  font-size: 2.56rem;
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 0.9rem;
+  font-size: 1rem;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.6rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -76,9 +76,9 @@ body {
     line-height: calc( 1.4 * (0.93rem + (0.8 - 0.93) * ((100vw - 20rem) / (48 - 20))));
   }
   .display-5 {
-    font-size: 0.96rem;
-    font-size: calc( 1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20)));
-    line-height: calc( 1.4 * (1.07rem + (1.2 - 1.07) * ((100vw - 20rem) / (48 - 20))));
+    font-size: 1.28rem;
+    font-size: calc( 1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20)));
+    line-height: calc( 1.4 * (1.21rem + (1.6 - 1.21) * ((100vw - 20rem) / (48 - 20))));
   }
 }
 /* Buttons */
@@ -659,13 +659,13 @@ a:hover {
   box-shadow: none;
   color: #565656;
   font-family: 'Rubik', sans-serif;
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.43;
   min-height: 3.5em;
   padding: 1.07em .5em;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.44rem;
+  font-size: 1.6rem;
 }
 .form-control,
 .form-control:focus {
@@ -6528,7 +6528,7 @@ body {
 .cid-r04snqjrOX {
   padding-top: 0px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/background4-1408x9984.png");
+  background-image: url("../../../assets/images/background4-1408x9985.png");
 }
 @media (min-width: 992px) {
   .cid-r04snqjrOX .mbr-figure {
@@ -6555,7 +6555,7 @@ body {
 .cid-r04wDn5mfg {
   padding-top: 15px;
   padding-bottom: 45px;
-  background-image: url("../../../assets/images/background4-1408x9984.png");
+  background-image: url("../../../assets/images/background4-1408x9985.png");
 }
 .cid-r04wDn5mfg .media-container-row {
   flex-direction: row-reverse;
@@ -12994,18 +12994,30 @@ body {
 #custom-html-h8 .my-image {
   width: 100%;
 }
-.cid-rlSK7yqzn2 {
-  background-image: url("../../../assets/images/shes-laughing-2000x861.png");
+.cid-rlWxvtRM9y {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/unspecified-1-1-1378x1024.jpg");
 }
-.cid-rlSK7yqzn2 .mbr-section-subtitle {
-  letter-spacing: .2rem;
+.cid-rlWxvtRM9y .media-container-row {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
 }
-.cid-rlSK7yqzn2 .media-container-column {
-  background-color: #4f4943;
+@media (min-width: 992px) {
+  .cid-rlWxvtRM9y .mbr-figure {
+    padding-right: 4rem;
+    padding-right: 0;
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rlWxvtRM9y .mbr-figure {
+    padding-bottom: 3rem;
+  }
 }
 @media (max-width: 767px) {
-  .cid-rlSK7yqzn2 .media-container-column {
-    padding: 1rem !important;
+  .cid-rlWxvtRM9y .mbr-text {
+    text-align: center;
   }
 }
 .cid-qN6ozYho5c {
@@ -13326,7 +13338,7 @@ body {
 .cid-qOeG0qyk0k {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-image: url("../../../assets/images/videoblocks-blonde-woman-laughing-at-studio-shot-sgfied-lwg-thumbnail-full14-1920x1080.png");
+  background-image: url("../../../assets/images/mbr-1920x1100.jpg");
 }
 .cid-qOeG0qyk0k .form-container {
   transition: all .2s;
